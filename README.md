@@ -46,3 +46,8 @@ You can get your free api key from " makersuites.google.com "
 - requirements.txt: A list of required Python packages for the project.
 - faiss_store_openai.pkl: A pickle file to store the FAISS index.
 - .env: Configuration file for storing your OpenAI API key.
+
+
+## Authors
+
+- [@mehwish4610](https://www.github.com/mehwish4610)
