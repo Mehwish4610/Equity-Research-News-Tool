@@ -10,6 +10,11 @@ This a is a user-friendly news research tool designed for effortless information
 - Process article content through LangChain's UnstructuredURL Loader
 - Construct an embedding vector using OpenAI's embeddings and leverage FAISS, a powerful similarity search library, to enable swift and effective retrieval of relevant information
 - Interact with the LLM's (Chatgpt) by inputting queries and receiving answers along with source URLs.
+
+![App Screenshot](https://github.com/Mehwish4610/Equity-Research-News-Tool/blob/main/o1.png)
+
+
+![App Screenshot](https://github.com/Mehwish4610/Equity-Research-News-Tool/blob/main/o2.png)
 ## Installation
 
 1. Install the requirements from requirement.txt by running
