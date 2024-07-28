@@ -23,11 +23,11 @@ This a is a user-friendly news research tool designed for effortless information
 
 2. Create a file and save it as " .env ".
 
-3. Store your accquired API Key from Google in a file called ".env".
+3. Store your accquired API Key from openai in a file called ".env".
 
-You can get your free api key from " makersuites.google.com "
+     You can get your API KEY from 'platform.openai.com'.
 
-4. Complete the codes for langchain.py and main.py 
+5. Complete the codes for main.py 
 
     
 ## Usage
@@ -38,11 +38,11 @@ You can get your free api key from " makersuites.google.com "
 
 2. The web app will open in your browser.
 
-- To create a knowledebase of FAQs, click on Create Knolwedge Base button. It will take some time before knowledgebase is created so please wait.
+- Enter vslid URLs
 
-- Once knowledge base is created you will see a directory called faiss_index in your current folder
+- Click on Process URLs
 
-- Now you are ready to ask questions. Type your question in Question box and hit Enter
+- Now you are ready to ask questions. Type our question in Question box and hit Enter
 
 
 ## Project Structure
